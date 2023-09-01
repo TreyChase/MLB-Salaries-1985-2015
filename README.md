@@ -1,4 +1,4 @@
-# MLB-Salaries-1985-2015
+# MLB Salaries, 1985-2015
 Capstone Project for Google Data Analytics Certificate
 
 This project is the capstone assignment and the final step toward the Coursera Google Data Analytics Certificate. I've grown up going to countless San Francisco Giants games, and so it seemed appropriate to finish this course analyzing the team I love. The scenario is as follows: I am a junior data analyst for the San Francisco Giants heading into the 2016 season. Fresh off of three world championships in 2010, 2012, and 2014, head management wants to ensure how much money to budget for their players going into 2016, and I have been assigned to analyze the hitters. It should be noted that their hitting took a sharp decline in the second half of the 2015 season, and the front office would like to remedy this. 
